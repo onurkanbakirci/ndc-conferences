@@ -11,7 +11,7 @@ This repository contains summaries of talks from NDC conferences, enriched with 
 
 # How to read?
 
-The conference summaries are organized by `date/place`. You can access the summary of any desired conference talk using the folder path in this format. Example:
+The conference summaries are organized by `date/place` (e.g., `2024/london`). You can access the summary of any desired conference talk using the folder path in this format. Example:
 
 
 [/2024/london/Designing-for-Change-With-Vertical-Slice-Architecture-Chris-Saintly](https://github.com/onurkanbakirci/ndc-conferences/blob/main/2024/london/Designing-for-Change-With-Vertical-Slice-Architecture-Chris-Saintly/article.md)
