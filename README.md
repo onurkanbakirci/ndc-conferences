@@ -13,10 +13,10 @@ This repository contains summaries of talks from NDC conferences, enriched with 
 
 The conference summaries are organized by `date/place`. You can access the summary of any desired conference talk using the folder path in this format. Example:
 
-```
-/2024/london/Designing-for-Change-With-Vertical-Slice-Architecture-Chris-Saintly
 
-/2024/sydney/10-Opinions-For-Creating-More-Maintainable-NET-Apps-Scott-Sauber
-```
+[/2024/london/Designing-for-Change-With-Vertical-Slice-Architecture-Chris-Saintly](https://github.com/onurkanbakirci/ndc-conferences/blob/main/2024/london/Designing-for-Change-With-Vertical-Slice-Architecture-Chris-Saintly/article.md)
+
+[/2024/sydney/10-Opinions-For-Creating-More-Maintainable-NET-Apps-Scott-Sauber](https://github.com/onurkanbakirci/ndc-conferences/blob/main/2024/sydney/10-Opinions-For-Creating-More-Maintainable-NET-Apps-Scott-Sauber/article.md)
+
 
 This structure allows you to easily navigate and find the key takeaways from specific NDC conference talks.
