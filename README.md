@@ -20,3 +20,7 @@ The conference summaries are organized by `date/place` (e.g., `2024/london`). Yo
 
 
 This structure allows you to easily navigate and find the key takeaways from specific NDC conference talks.
+
+# Source
+
+https://www.youtube.com/@NDC
